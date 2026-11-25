@@ -1,2 +1,1 @@
 I asked my agent if two copies of my news graphic looked the same. It checked 128 characters before it checked a single pixel.
-- 代理今天干的最蠢的事
